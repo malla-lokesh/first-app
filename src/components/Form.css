@@ -1,0 +1,11 @@
+.username, .age {
+    font-weight: bold;
+    font-size: x-large;
+    border-color: gray;
+}
+
+.form {
+    background-color: rgb(235, 235, 235);
+    border-color: rgb(235, 235, 235);
+    border-radius: 10px;
+}
