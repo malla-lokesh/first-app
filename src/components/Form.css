@@ -1,11 +1,9 @@
-.username, .age {
-    font-weight: bold;
-    font-size: x-large;
-    border-color: gray;
+.form {
+    background-color: rgb(245, 245, 247);
+    border-radius: 5px;
+    padding: 15px;
 }
 
-.form {
-    background-color: rgb(235, 235, 235);
-    border-color: rgb(235, 235, 235);
-    border-radius: 10px;
+.input {
+    background-color: rgb(255, 255, 255);
 }
